@@ -2,7 +2,5 @@
 
 演示项目地址：
 
-地址：[http://192.168.1.12/fsh/trunk](http://192.168.1.12/fsh/trunk)
-
-
+地址：[https://github.com/benchis/web-demo.git](https://github.com/benchis/web-demo.git)
 
