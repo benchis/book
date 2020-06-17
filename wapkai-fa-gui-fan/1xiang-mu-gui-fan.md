@@ -2,5 +2,5 @@
 
 演示项目地址：
 
-地址：[https://github.com/benchis/web-demo.git](https://github.com/benchis/web-demo.git)
+地址：[https://github.com/benchis/mini-demo.git](https://github.com/benchis/mini-demo.git)
 
