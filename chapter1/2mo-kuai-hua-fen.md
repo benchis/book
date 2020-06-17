@@ -1,4 +1,4 @@
-### 1.项目目录
+### 项目目录
 
 public----------------------项目打包目录
 
@@ -61,6 +61,4 @@ babel.config.js---------babel配置文件
 package.json-----------webpack配置目录
 
 vue.config.js------------VUE配置目录
-
-
 
